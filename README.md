@@ -1,4 +1,4 @@
-# Pasos para poder ejecutar el poryecto en CASA
+# Pasos para poder ejecutar el proyecto en CASA
 
 Primero debemos validar que nuestro computador tenga instalado los siguiente programas
 
