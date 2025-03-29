@@ -19,7 +19,7 @@ cd /D/adso/codio-ficha/backend
 Ejecute el siguiente comando para clonar el repositorio
 
 ```
-git clone https://github.com/JohnVanagandr/api-adso-2894667.git
+git clone https://github.com/JohnVanagandr/api-adso-2894667.git api
 ```
 
 Nos creo una nueva carpeta con el nombre api.  
